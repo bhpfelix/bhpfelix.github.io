@@ -8,5 +8,6 @@ date: 2017-01-06
 location: "Atlanta, GA, USA"
 ---
 
+* Spring'17, 180 Students
 * Topics including: Topics: Graph Theory, Greedy Algorithms, Dynamic Programming, Linear Programming, Complexity Theory.
 * Responsible for creating and grading assignments, labs, and quizzes. Holds office hours to help students better understand and retain the course material.

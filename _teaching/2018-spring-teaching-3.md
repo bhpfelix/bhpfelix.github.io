@@ -8,5 +8,6 @@ date: 2018-01-06
 location: "Atlanta, GA, USA"
 ---
 
+* Spring'18, 200 Students
 * Topics including: Perception, Image Processing, Odometry, Kinematics, Path Planning, Localization, SLAM, Multi-robot Systems.
 * Responsible for creating and grading assignments, labs, and quizzes. Holds office hours to help students better understand and retain the course material.

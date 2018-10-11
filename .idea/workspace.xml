@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adb9a063-fa55-4164-b8ae-395eed8d14d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2018-07-31-Towards-Material-Classification-of-Scenes-Using-Active-Thermography.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2018-07-31-Towards-Material-Classification-of-Scenes-Using-Active-Thermography.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2017-fall-teaching-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2017-fall-teaching-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2017-spring-teaching-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2017-spring-teaching-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2018-spring-teaching-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2018-spring-teaching-3.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,7 +30,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-fall-teaching-2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_teaching/2017-fall-teaching-2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-spring-teaching-1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_teaching/2017-spring-teaching-1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-spring-teaching-3.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_teaching/2018-spring-teaching-3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="428">
@@ -49,6 +85,9 @@
       <list>
         <option value="$PROJECT_DIR$/_publications/2018-07-31-Towards-Material-Classification-of-Scenes-Using-Active-Thermography.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_teaching/2017-fall-teaching-2.md" />
+        <option value="$PROJECT_DIR$/_teaching/2017-spring-teaching-1.md" />
+        <option value="$PROJECT_DIR$/_teaching/2018-spring-teaching-3.md" />
       </list>
     </option>
   </component>
@@ -87,6 +126,11 @@
               <item name="bhpfelix.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="bhpfelix.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_publications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bhpfelix.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bhpfelix.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_teaching" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,12 +173,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539216670282</updated>
-      <workItem from="1539216673591" duration="249000" />
+      <workItem from="1539216673591" duration="862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249000" />
+    <option name="totallyTimeSpent" value="862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -167,6 +211,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="90" column="20" lean-forward="true" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2018-07-31-Towards-Material-Classification-of-Scenes-Using-Active-Thermography.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -177,10 +228,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="90" column="20" lean-forward="true" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+    <entry file="file://$PROJECT_DIR$/_teaching/2017-fall-teaching-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_teaching/2017-spring-teaching-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_teaching/2018-spring-teaching-3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

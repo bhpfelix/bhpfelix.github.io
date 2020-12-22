@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Machine Learning Engineer @ Apple | M.S. in Machine Learning @ Carnegie Mellon University
+- Machine Learning Engineer @ Apple
+- M.S. in Machine Learning @ Carnegie Mellon University
